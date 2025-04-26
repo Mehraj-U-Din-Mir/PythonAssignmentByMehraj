@@ -1,2 +1,2 @@
-Mylist=[1,2,3,54,6,7]
-print(Mylist)
+mylist=[1,2,3,5,6,7]
+print(mylist)
